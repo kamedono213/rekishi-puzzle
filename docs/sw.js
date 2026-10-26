@@ -1,5 +1,5 @@
 // 自動生成(tools/build-pages.js)。手で編集しない。
-const CACHE = 'rekishi-b9d8b11d8a';
+const CACHE = 'rekishi-45ec2fbfb8';
 const PRECACHE = ["./","app.js","data/rekishi.json","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","icons/maskable-512.png","manifest.webmanifest"];
 const LIBS = ["https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"];
 self.addEventListener('install', e => {
